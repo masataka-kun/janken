@@ -1,0 +1,61 @@
+/* リスト選択時にカーソル変更 */
+input {
+    cursor: pointer;
+}
+
+.start_btn {
+    width: 504px;
+    height: 60px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.stop_btn {
+    width: 504px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.start_btn2 {
+    width: 200px;
+    height: 60px;
+}
+
+.stop_gu {
+    border-radius: 50%;                 /* 角丸指定 */
+    display:  inline-block;             /* インラインブロックする */
+    padding: 27px 0px;                  /* 余白指定 */ 
+    width: 80px;                       /* 幅指定 */
+    text-align:  center;                /* 中央揃え */
+    box-shadow: 0 2px 10px 0 #9E9E9E;
+    margin-right: 20px;
+}
+
+
+.stop_cho {
+    border-radius: 50%;                 /* 角丸指定 */
+    display:  inline-block;             /* インラインブロックする */
+    padding: 27px 0px;                  /* 余白指定 */ 
+    width: 80px;                       /* 幅指定 */
+    text-align:  center;                /* 中央揃え */
+    box-shadow: 0 2px 10px 0 #9E9E9E;
+    margin-right: 20px;
+}
+
+
+.stop_par {
+    border-radius: 50%;                 /* 角丸指定 */
+    display:  inline-block;             /* インラインブロックする */
+    padding: 27px 0px;                  /* 余白指定 */ 
+    width: 80px;                       /* 幅指定 */
+    text-align:  center;                /* 中央揃え */
+    box-shadow: 0 2px 10px 0 #9E9E9E;
+}
+
+#com_hand {
+    margin: 20px 0;
+}
+
+ 
